@@ -1,0 +1,10 @@
+Tangerang, 8000 , 5000, 25000,45000, 30000, Banten
+Bandung, 12000,8000,30000,65000,40000, Jawa Barat
+Yogyakarta, 21000,18000,50000,80000,65000, Jawa Tengah
+Semarang,22000 , 18500, 55000,50000, 35000, Jawa Tengah
+Medan, 45000 , 30000, 70000,115000, 90000, Sumatra Utara
+Pekan Baru , 60000 , 35000, 90000,125000, 100000, Riau
+Surabaya, 30000 , 20000, 65000,80000, 50000, Jawa Timur
+Bogor,8000 , 5000, 25000,45000, 30000, Jawa Barat
+Depok, 8000 , 12000, 9000,50000, 90000, Jawa Barat
+Cirebon,3000 , 12000, 9000,50000, 90000, Jawa Barat
